@@ -19,12 +19,12 @@ https://space.bilibili.com/3546392970660694/upload/video
 
 
 ## frontend Page (Index)
-- **frontend Page**: `index.html`
+- **frontend Page**: `index.html`  frontend
 
 
 
 ## backend Page (Index)
-- **backend Page**: `index.html`
+- **backend Page**: `src\main\java\com\project\ProjectApplication.java`   src
 
 
 
