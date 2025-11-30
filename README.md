@@ -1,32 +1,5 @@
-# project-02-anti-fakenews-cn-alpaca
+# Vue 3 + Vite
 
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Team Information
-- **Team Name**: Alpaca
-
-
-
-## Group Members
-| Student ID | Student Name |
-|------------|--------------|
-| 20232058   | Zhu Tianyv   |
-| 20232085   | An Jiaqi     |
-
-
-
-## Project Video
-https://space.bilibili.com/3546392970660694/upload/video
-
-
-## frontend Page (Index)
-- **frontend Page**: `index.html`  frontend
-
-
-
-## backend Page (Index)
-- **backend Page**: `src\main\java\com\project\ProjectApplication.java`   src
-
-
-
-## URL
-https://github.com/chartchai-class/project-02-anti-fakenews-cn-alpaca?tab=readme-ov-file
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
